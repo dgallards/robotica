@@ -1,0 +1,4 @@
+-I/home/diegopc/cpp projects/ejemplo1
+-o
+/home/diegopc/cpp projects/ejemplo1/moc_ejemplo1.cpp
+/home/diegopc/cpp projects/ejemplo1/ejemplo1.h

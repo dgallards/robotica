@@ -1,0 +1,15 @@
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/install/strip.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/install/local.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/install.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/list_install_components.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/rebuild_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/CMakeFiles/edit_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/install/strip.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/install/local.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/edit_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/install.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/list_install_components.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/rebuild_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/chocachoca.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/ICES__home_alumno_robocomp_components_albertodiego_robotica_practica2nueva_src.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica2nueva/src/CMakeFiles/chocachoca_autogen.dir

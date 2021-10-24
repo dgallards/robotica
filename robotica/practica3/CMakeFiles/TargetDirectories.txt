@@ -1,0 +1,15 @@
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/install/strip.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/install/local.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/edit_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/rebuild_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/list_install_components.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/CMakeFiles/install.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/install/strip.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/install/local.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/install.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/list_install_components.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/ICES__home_alumno_robocomp_components_albertodiego_robotica_practica3_src.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/edit_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/gotoxy.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/rebuild_cache.dir
+/home/alumno/robocomp/components/albertodiego/robotica/practica3/src/CMakeFiles/gotoxy_autogen.dir

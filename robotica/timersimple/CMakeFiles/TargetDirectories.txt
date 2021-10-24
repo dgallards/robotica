@@ -1,0 +1,7 @@
+/home/alumno/robotica/timersimple/CMakeFiles/install/strip.dir
+/home/alumno/robotica/timersimple/CMakeFiles/install.dir
+/home/alumno/robotica/timersimple/CMakeFiles/list_install_components.dir
+/home/alumno/robotica/timersimple/CMakeFiles/rebuild_cache.dir
+/home/alumno/robotica/timersimple/CMakeFiles/edit_cache.dir
+/home/alumno/robotica/timersimple/CMakeFiles/install/local.dir
+/home/alumno/robotica/timersimple/CMakeFiles/ejemplo1.dir
