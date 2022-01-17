@@ -1,0 +1,19 @@
+# Sources set
+SET ( SOURCES
+  specificworker.cpp
+  specificmonitor.cpp
+  $ENV{ROBOCOMP}/classes/abstract_graphic_viewer/abstract_graphic_viewer.h
+  /home/alumno/robocomp/classes/grid2d/grid.cpp
+  /home/alumno/robocomp/components/albertodiego/robotica/practica5/src/dynamic_window.cpp
+)
+
+# Headers set
+SET ( HEADERS
+  specificworker.h
+  specificmonitor.h
+)
+
+
+SET (LIBS ${LIBS}  tbb)
+
+
